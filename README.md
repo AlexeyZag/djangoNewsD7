@@ -5,3 +5,4 @@
 /news/6
 pip install apscheduler
 pip install django-filter
+pip install django-allauth
